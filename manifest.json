@@ -1,0 +1,40 @@
+{
+    "name": "Manifest Test 2",
+    "description": "This is a manifest test",
+    "isPublic": false,
+    "keywords": [
+        "et",
+        "perferendis",
+        "velit",
+        "provident",
+        "est"
+    ],
+    "languages": [
+        "Hindi",
+        "Romanian",
+        "Russian",
+        "Zulu",
+        "Korean"
+    ],
+    "logo": {
+        "size": "213x300",
+        "src": "assets/logo.png"
+    },
+    "permissions": [
+        "aut",
+        "aspernatur",
+        "doloribus",
+        "et",
+        "possimus"
+    ],
+    "releaseNotes": "Manifest release notes",
+    "sourceCode": "Manifest release notes",
+    "status": "received",
+    "whiteListDomains": [
+        "hilpert.info",
+        "kilback.co",
+        "gulgowski.name",
+        "veum.name",
+        "leschnolan.org"
+    ]
+}
